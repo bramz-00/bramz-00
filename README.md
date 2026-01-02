@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Zakaria Braham</h1>
+<h1 align="left">Hi, I'm Zakaria BRAHAM</h1>
 <h3 align="left">A passionate Full stack developer from Algeria</h3>
 
 - 🌱 I’m currently learning **Dart with Flutter and Angular**
