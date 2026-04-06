@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Dart with Flutter and Angular**
 
-- 👨‍💻 All of my projects are available at [https://zakaria-braham.vercel.app/](https://zakaria-braham.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://zakariabraham.com/](https://zakariabraham.com/)
 
 - 💬 Ask me about **React.js, Vue.js , Laravel , Spring boot , Nest.js , Adonis.js**
 
